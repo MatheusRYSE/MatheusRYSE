@@ -2,7 +2,7 @@
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-rysevicius)
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVbXFBRsNfFDJddcDdkkSLTJTvvNvRFNHKJNFxjzgjVBmmQJmlJvkXvxpZTXGQvCfFSGX)
-[![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](htpps:///C:/Users/mryse/AppData/Local/Microsoft/Windows/INetCache/IE/5BBVM4YA/Curriculo%20MatheusR[1].pdf)
+[![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511984900609?text=ola)
 
 ![MatheusDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusR&show_icons=true&theme=radical)
 
@@ -15,3 +15,4 @@
 
 
 ## Estou sempre querendo aprender algo novo, estudo para ser um desenvolvedor Back-end!
+
