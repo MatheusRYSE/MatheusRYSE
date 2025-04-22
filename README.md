@@ -4,7 +4,7 @@
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVbXFBRsNfFDJddcDdkkSLTJTvvNvRFNHKJNFxjzgjVBmmQJmlJvkXvxpZTXGQvCfFSGX)
 [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511984900609?text=ola)
 
-![MatheusDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusR&show_icons=true&theme=radical)
+![MatheusDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRYSE&show_icons=true&theme=radical)
 
 ### Tecnologias que estou aprendendo.
 <div style="display: inline_block"><br/>
