@@ -7,7 +7,7 @@
 ![MatheusDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRYSE&show_icons=true&theme=radical)
 
 ### Tecnologias que estou aprendendo.
-<p align="center">
+<p align="left">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
