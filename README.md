@@ -7,12 +7,13 @@
 ![MatheusDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRYSE&show_icons=true&theme=radical)
 
 ### Tecnologias que estou aprendendo.
-<div style="display: inline_block"><br/>
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img align= "center" alt="java" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
-<img align= "center" alt="java" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
-<img align= "center" alt="java" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-</div>
+<p align="center">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
 
 
 ## Estou sempre querendo aprender algo novo, estudo para ser um desenvolvedor Back-end!
