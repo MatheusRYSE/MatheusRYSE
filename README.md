@@ -16,5 +16,5 @@
 
 
 
-## Estou sempre querendo aprender algo novo, estudo para ser um desenvolvedor Back-end!
+##Estou sempre em busca de aprender algo novo e me desenvolver constantemente, com foco em ingressar na área de Data Analytics e transformar dados em conhecimento útil!
 
