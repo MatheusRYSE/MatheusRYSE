@@ -4,7 +4,7 @@
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVbXFBRsNfFDJddcDdkkSLTJTvvNvRFNHKJNFxjzgjVBmmQJmlJvkXvxpZTXGQvCfFSGX)
 [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511984900609?text=ola)
 
-![MatheusDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRYSE&show_icons=true&theme=radical)
+![MatheusDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRYSE&show_icons=true&theme=radical&cache_seconds=60)
 
 ### Tecnologias que estou aprendendo.
 <p align="left">
@@ -16,5 +16,5 @@
 
 
 
-##Estou sempre em busca de aprender algo novo e me desenvolver constantemente, com foco em ingressar na área de Data Analytics e transformar dados em conhecimento útil!
+## Estou sempre em busca de aprender algo novo e me desenvolver constantemente, com foco em ingressar na área de Data Analytics e transformar dados em conhecimento útil!
 
